@@ -1,0 +1,40 @@
+#head {
+width: 400px;
+background-color: hotpink;
+padding: 10px;
+text-align: center;
+}
+#userImage {
+    height: 300px;
+    width: 200px;
+    float: right;
+}
+#instructions {
+    background-color: rgb(136, 136, 238);
+    padding: 10px;
+}
+
+#boxHead {
+    background-color: rgb(136, 136, 238);
+    width: 400px;
+    padding-left: 10px;
+}
+#ScoreBox {
+    background-color: rgb(136, 136, 238);
+    width: 400px;
+    padding-left: 10px;
+}
+
+body {
+    width: 100%;
+}
+#opponentTotal {
+    background-color: rgb(136, 136, 238);
+    width: 100px;
+    height: 56px;
+}
+#score {
+    background-color: rgb(136, 136, 238);
+    height: 56px;
+    padding-top: 9px;
+}
